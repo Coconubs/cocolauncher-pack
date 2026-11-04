@@ -23,5 +23,7 @@ Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo, nên
 - Địa chỉ server: `coco.ultramc.co`
 - Discord: https://discord.gg/hyspace
 - Thông tin server và hướng dẫn: https://github.com/Coconubs/coco-cobblemon
+- Chơi trên điện thoại Android: https://github.com/Coconubs/coco-cobblemon/blob/main/docs/cobblemon-dien-thoai.md
+- Nhật ký cập nhật: https://github.com/Coconubs/coco-cobblemon/blob/main/docs/cap-nhat.md
 
 CocoLauncher và Coco Cobblemon không phải sản phẩm chính thức của Mojang, Microsoft, Nintendo, The Pokémon Company hay nhóm phát triển Cobblemon.
