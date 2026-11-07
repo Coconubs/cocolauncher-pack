@@ -31,6 +31,14 @@ Bản .exe chưa có chữ ký số nên SmartScreen có thể cảnh báo, nên
 | Cách vào server Coco Cobblemon | [coconubs.github.io/cach-vao-server](https://coconubs.github.io/cach-vao-server/) |
 | Nhật ký cập nhật | [coconubs.github.io/cap-nhat](https://coconubs.github.io/cap-nhat/) |
 
+## Hỏi nhanh
+
+**CocoLauncher là gì?** Launcher của server Coco Cobblemon (Minecraft Java 1.21.1, Cobblemon 1.7.3), do Coconubs phát hành. Nhập tên, bấm **Chơi**, launcher tự cài Java, Minecraft, Fabric và gói mod rồi vào server. CocoLauncher không dùng để chơi một mình hay vào server khác.
+
+**CocoLauncher có an toàn không?** Không phần mềm nào bảo đảm được tuyệt đối, nên hãy tự kiểm chứng: trên Windows, cài từ Microsoft Store (nhà phát hành Coconubs); file .exe, .dmg, .apk chỉ tải ở trang [Releases](https://github.com/Coconubs/cocolauncher-pack/releases) của repo này và đối chiếu mã SHA-256 theo [hướng dẫn](https://coconubs.github.io/cocolauncher/an-toan/).
+
+**Có phải app "Coco Launcher" trên Google Play không?** Không. App giao diện điện thoại tên "Coco Launcher" trên Google Play là ứng dụng khác, không liên quan tới Minecraft hay Coco Cobblemon. CocoLauncher Android chỉ tải ở trang Releases của repo này.
+
 ## Thông tin
 
 - Địa chỉ server: `coco.ultramc.co` (Minecraft Java 1.21.1, Fabric, Cobblemon 1.7.3)
